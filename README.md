@@ -8,6 +8,7 @@ Korisnik putem sučelja blynk aplikacije ima uvid u trenutna i povijesna mjerenj
 ![](Images/Slika%20(8).jpg)
 
 Components used: nodemcu (ESP8266), 5x ds18b20 waterproof temperature sensors, power supply, Blynk, 35 m cable.
+
 Korištene komponente: nodemcu(ESP8266), 5x ds18b20 vodonepropusnih senzora temperature, napajanje, Blynk, 35 m kabela.
 
 Senzori su postavljeni na različitim mjestima unutar i izvan plastenika. U svrhu prikapljanja podataka o kretanju temperature kroz godinu i unaprijeđenja procesa uzgoja. 
@@ -17,7 +18,8 @@ Sensors are placed at different locations inside and outside the greenhouse. In 
 ![](Images/Slika%20(7).jpg)
 
 Through the interface of the Blynk application, the user has a view of current and historical temperature measurements, can also export data and manipulate them as desired.
+
 Putem sučelja Blynk aplikacije korisnik ima prikaz trenutnih i povijesnih mjerenja temperature, može I eksportati podatke pa s njima manipulirati po želji. 
 
-![](Images/Slika8.jpg)
-![](Images/Slika9.jpg)
+![](Images/Slika10.jpg)
+![](Images/Slika11.jpg)
