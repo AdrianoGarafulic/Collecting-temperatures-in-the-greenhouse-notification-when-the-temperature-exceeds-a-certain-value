@@ -17,8 +17,11 @@ Sensors are placed at different locations inside and outside the greenhouse. In 
 
 ![](Images/Slika%20(7).jpg)
 
-Through the interface of the Blynk application, the user has a view of current and historical temperature measurements, can also export data and manipulate them as desired.
+Through the interface of the Blynk application, the user has a view of current and historical temperature measurements, can also export data and manipulate them as desired. It also has insight into the wifi signal strength of the microcontroller.
 
-Putem sučelja Blynk aplikacije korisnik ima prikaz trenutnih i povijesnih mjerenja temperature, može I eksportati podatke pa s njima manipulirati po želji. 
+Putem sučelja Blynk aplikacije korisnik ima prikaz trenutnih i povijesnih mjerenja temperature, može I eksportati podatke pa s njima manipulirati po želji. Ima uvid i u jačinu wifi signala mikrokontrolera. 
 
 ![](Images/Untitled2.png)
+
+![](Images/Untitled1.png)
+
