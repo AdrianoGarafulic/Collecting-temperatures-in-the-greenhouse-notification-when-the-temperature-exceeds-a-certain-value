@@ -21,4 +21,4 @@ Through the interface of the Blynk application, the user has a view of current a
 
 Putem sučelja Blynk aplikacije korisnik ima prikaz trenutnih i povijesnih mjerenja temperature, može I eksportati podatke pa s njima manipulirati po želji. 
 
-![](Images/Untitled.png)
+![](Images/Untitled2.png)
