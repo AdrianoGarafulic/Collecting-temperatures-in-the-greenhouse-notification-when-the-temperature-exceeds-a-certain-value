@@ -23,5 +23,10 @@ Putem sučelja Blynk aplikacije korisnik ima prikaz trenutnih i povijesnih mjere
 
 ![](Images/Untitled2.png)
 
+In the "Notifications" tab, notifications can be managed via the Blynk application. Notifications are related to three of the five installed sensors. The user can turn notifications on or off for each of the sensors separately. It can also manage event values for notifications for each of the sensors. Events to be notified: temperature high, temperature too high, temperature low, temperature too low. Therefore, the user can adjust the events for which notifications will come to a certain period or season. In winter, low temperature notifications are useful to prevent frost or freezing. In summer, high temperature notifications are useful so that the plants do not die from too high a temperature. During autumn and spring, notifications for too low and too high temperatures are useful because meteorological extremes can occur and thus possible damage to the greenhouse.
+
+U tab-u „Obavijesti“ može se upravljati notifikacijama putem Blynk aplikacije. Notifikacije su vezane za tri od pet postavljenih senzora. Korisnik može uključiti ili isključiti notifikacije za svaki od senzora odvojeno. Može i upravljati vrijednostima događaja pri kojima će dolaziti  notifikacije za svaki od senzora.  Događaji o kojima bude obaviješten : temperatura visoka, temperatura previsoka, temperatura niska, temperatura preniska.  Stoga korisnik može prilagoditi događaje pri kojima će dolaziti notifikacije određenom periodu ili godišnjem dobu. Zimi su korisne notifikacije o niskoj temperaturi da ne dođe do mraza ili zamrzavanja. Ljeti su korisne notifikacije o visokoj temperaturi da biljke ne uginu od previskoke temperature. Tijekom jeseni i proljeća su korisne notifikacije za prenisku i previsoku temperaturu jer može doći do meteoroloških ekstrema a tako i eventualne štete u plasteniku. 
+
 ![](Images/Untitled1.png)
+
 
