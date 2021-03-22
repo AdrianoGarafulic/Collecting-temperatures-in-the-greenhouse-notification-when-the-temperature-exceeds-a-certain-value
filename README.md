@@ -7,4 +7,6 @@ The user has an insight into current and historical measurements of temperatures
 
 Components used: nodemcu (ESP8266), 5x ds18b20 waterproof temperature sensors, power supply, Blynk, 35 m cable.
 
+Sensors are placed at different locations inside and outside the greenhouse. In order to collect data on temperature trends throughout the year and improve the cultivation process.
+
 ![](Images/Slika%20(7).jpg)
